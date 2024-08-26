@@ -24,5 +24,6 @@
 1. Projeyi klonlayın:
    ```bash
    git clone https://github.com/Dogukan-Hellac/patika-BanaNe.git
-2. Proje dizinine gidin:
-    cd Bana Ne
+2. Proje dizinine gidin
+   ```bash
+   cd Bana Ne
